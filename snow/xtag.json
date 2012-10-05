@@ -1,0 +1,17 @@
+{
+    "name": "Snow",
+    "tagName": "x-snow",
+    "version": "1.0",
+    "author": "Matt Basta",
+    "description": "Easily add snow to your webpage.",
+    "images": [],
+    "categories": ["aesthetic"],
+    "compatibility": {
+        "firefox": 4,
+        "chrome": 4,
+        "ie": 5.5,
+        "opera": 12,
+        "android": 2.1,
+        "ios": 4
+    }
+}
