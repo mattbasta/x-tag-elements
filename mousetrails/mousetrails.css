@@ -1,0 +1,2 @@
+x-mousetrails {display:block;position: absolute;z-index:10000000000000000000;}
+x-mousetrails > x-mousetrails {margin-left:15px;}
